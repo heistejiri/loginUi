@@ -1,6 +1,33 @@
-# loginui
+## ⭐ LOGIN UI FLUTTER PROJECT ⭐
 
-A Login and SignUp UI page
+⭕ **A mobile app UI built using Flutter**
+<br>
+<br>
+
+
+<br>
+
+## 📌 Tech Stacks
+
+[![Dart](https://img.shields.io/badge/Dart5%20-%23E34F26.svg?&style=for-the-badge&logo=Dart5&logoColor=white)](https://github.com/heistejiri)&nbsp;
+<br>
+<br>
+
+## 📌 Overview
+
+<br>
+
+
+
+## 📬 Connect With Me
+
+- **LinkedIn** - [OgheneTejiri Agoro](https://www.linkedin.com/in/heistejiri/)
+- **Twitter** - [@Heistejiri](https://www.twitter.com/heistejiri)
+
+## 📌 Acknowledgments
+
+- Icons Used For Tech Stack Section - [https://img.shields.io](https://img.shields.io)
+- This ReadMe File Inspired From - [Jigar Sable](https://github.com/jigar-sable)
 
 ## Getting Started
 
