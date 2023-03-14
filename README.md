@@ -5,16 +5,14 @@
 <br>
 
 
-<br>
-
 ## 📌 Tech Stacks
 
-[![Dart](https://img.shields.io/badge/Dart5%20-%23E34F26.svg?&style=for-the-badge&logo=Dart5&logoColor=white)](https://github.com/heistejiri)&nbsp;
+[![Dart](https://img.shields.io/badge/Dart%20-%23E34F26.svg?&style=for-the-badge&logo=Dart&logoColor=white)](https://github.com/heistejiri)&nbsp;
 <br>
 <br>
 
 ## 📌 Overview
-
+⭕ **Screenshots Loading**
 <br>
 
 
